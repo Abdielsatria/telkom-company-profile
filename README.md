@@ -2,4 +2,4 @@
  
 Project simulasi HTML, CSS, PHP native, MySQL/MariaDB, dan Git. 
 
-Perubahan ini dibuat dari simulasi laptop David
+Perubahan ini dibuat dari laptop Qolinta
